@@ -1,0 +1,4 @@
+echo "gradio" > requirements.txt
+echo "fastai" >> requirements.txt
+echo "torch" >> requirements.txt
+echo "pillow" >> requirements.txt
